@@ -9,16 +9,6 @@
             </titleStmt>
             <pubStmt/>
         </fileDesc>
-        <revisionDesc>
-            <change isodate="2022-09-06">
-                <respStmt>
-                    <persName>ylong</persName>
-                </respStmt>
-                <changeDesc>
-                    <p>Erstellen der Datei</p>
-                </changeDesc>
-            </change>
-        </revisionDesc>
     </meiHead>
     <music>
         <body>
